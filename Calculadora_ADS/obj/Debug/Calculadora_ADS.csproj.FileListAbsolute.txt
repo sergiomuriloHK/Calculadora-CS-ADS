@@ -1,0 +1,10 @@
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\bin\Debug\Calculadora_ADS.exe.config
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\bin\Debug\Calculadora_ADS.exe
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\bin\Debug\Calculadora_ADS.pdb
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\obj\Debug\Calculadora_ADS.csproj.AssemblyReference.cache
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\obj\Debug\Calculadora_ADS.Form1.resources
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\obj\Debug\Calculadora_ADS.Properties.Resources.resources
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\obj\Debug\Calculadora_ADS.csproj.GenerateResource.cache
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\obj\Debug\Calculadora_ADS.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\obj\Debug\Calculadora_ADS.exe
+C:\Users\Murilo\Documents\C#\Calculadora_ADS\Calculadora_ADS\obj\Debug\Calculadora_ADS.pdb
